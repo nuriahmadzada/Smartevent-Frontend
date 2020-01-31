@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Mariana Oghawa";
+  src: url("../fonts/MarianaOghawa.otf") format("otf"),
+       url("../fonts/MarianaOghawa.ttf") format("ttf"),
+       url("../fonts/MarianaOghawa.woff") format("woff"),
+       url("../fonts/Mariana\ Oghawa.woff2") format("woff2"),
+       url("../fonts/Mariana\ Oghawa.eot") format("eot");
+}
+
+@font-face {
+  font-family: "MonAmourScriptPro";
+  src: url("../fonts/MonAmourScriptPro.otf") format("otf"),
+       url("../fonts/MonAmourScriptPro.ttf") format("ttf"),
+       url("../fonts/MonAmourScriptPro.woff") format("woff"),
+       url("../fonts/MonAmourScriptPro.woff2") format("woff2"),
+       url("../fonts/MonAmourScriptPro.eot") format("eot");
+}
